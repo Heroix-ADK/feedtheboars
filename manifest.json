@@ -1,6 +1,6 @@
 {
   "name": "Feed the Boars modpack",
-  "version_number": "1.0",
+  "version_number": "1.0.1",
   "website_url": "",
   "description": "This modpack is a friendpack and for now meant to enhance the vanilla Valheim experience and make it a bit less tedious to play the game. It also enhances network capabilities and balances a couple of mods to ensure nothing feels overpowered.",
   "dependencies": [
