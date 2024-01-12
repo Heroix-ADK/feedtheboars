@@ -1,14 +1,16 @@
 # Feed the Boars modpack
 This modpack is a friendpack and for now meant to enhance the vanilla Valheim experience and make it a bit less tedious to play the game. It also enhances network capabilities and balances a couple of mods to ensure nothing feels overpowered.
 
-##### Quick summary of things:
+#### Quick summary of things:
 - Skills for every aspect of the game
 - Dual wielding of same type weapons
 - Plantable berries, mushrooms, and even flint, stones, and wood
 
 # Changelog
 
-##### v1.0 release of the modpack.
+#### v1.0.1 updated icon
+
+#### v1.0 release of the modpack.
 - Balancing changes made to PlantEverything
 - Balancing changes made to all skills to make them less strong
 - Removed speed boost in woods from Lumberjacking
