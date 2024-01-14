@@ -1,6 +1,6 @@
 {
   "name": "FeedTheBoars",
-  "version_number": "1.0.1",
+  "version_number": "1.1.0",
   "website_url": "",
   "description": "This modpack is a friendpack and for now meant to enhance the vanilla Valheim experience and make it a bit less tedious to play the game. It also enhances network capabilities and balances a couple of mods to ensure nothing feels overpowered.",
   "dependencies": [
@@ -18,6 +18,9 @@
 	"Smoothbrain-Mining-1.1.5",
 	"Smoothbrain-Blacksmithing-1.2.5",
 	"Smoothbrain-Sailing-1.1.7",
-	"Smoothbrain-DualWield-1.0.9"
+	"Smoothbrain-DualWield-1.0.9",
+	"ishid4-BetterArchery-1.9.4",
+	"Smoothbrain-TargetPortal-1.1.16",
+	"JereKuusela-Server_devcommands-1.70.0"
   ]
 }
