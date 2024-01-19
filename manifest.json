@@ -6,6 +6,7 @@
   "dependencies": [
 	"denikson-BepInExPack_Valheim-5.4.2202",
 	"ValheimModding-Jotunn-2.16.2",
+	"CW_Jesse-BetterNetworking_Valheim-2.3.2",
 	"SpikeHimself-XPortal-1.2.20",
 	"JereKuusela-Server_devcommands-1.72.0",
 	"BetterUI_ForeverMaintained-BetterUI_ForeverMaintained-2.5.4",
