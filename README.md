@@ -7,3 +7,4 @@ This modpack is a friendpack and for now meant to enhance the vanilla Valheim ex
 - Better archery
 - Server admin commands
 - Plantable berries, mushrooms, and even flint, stones, and wood
+- Better portals

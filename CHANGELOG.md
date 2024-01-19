@@ -1,3 +1,9 @@
+### v1.2 Changed teleport mod
+- changed mod order for better compatibility
+- upgraded JereKuusela-Server_devcommands-1.72.0
+- removed Smoothbrain-TargetPortal-1.1.16
+- added SpikeHimself-XPortal-1.2.20
+
 ### v1.1 added more mods
 - ishid4-BetterArchery-1.9.4
 - Smoothbrain-TargetPortal-1.1.16
